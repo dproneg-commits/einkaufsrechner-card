@@ -6,6 +6,15 @@ Follows your Home Assistant theme (light and dark). Texts in German and English.
 
 *Deutsch weiter unten.*
 
+![Einkaufsrechner Card – light theme](https://raw.githubusercontent.com/dproneg-commits/einkaufsrechner-card/main/images/tablet-light.png)
+
+![Einkaufsrechner Card – dark theme, English](https://raw.githubusercontent.com/dproneg-commits/einkaufsrechner-card/main/images/tablet-dark.png)
+
+<p>
+  <img src="https://raw.githubusercontent.com/dproneg-commits/einkaufsrechner-card/main/images/phone-dark.png" alt="Phone layout" width="260">
+  <img src="https://raw.githubusercontent.com/dproneg-commits/einkaufsrechner-card/main/images/popup.png" alt="All purchases popup" width="520">
+</p>
+
 ## Features
 - Enter an amount, pick the shop and who paid, save. Today, yesterday or any other day.
 - Spending per shop for week / month / year, browse back in time, tap a bar or the total for all purchases.
